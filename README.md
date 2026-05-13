@@ -6,7 +6,7 @@ Senior-level professional with a background in Computer Science and Engineering.
 ## 📊 Impact & Contributions
 *   **AI Architecture:** Developed a production-ready **Virtual Try-On** system using advanced computer vision.
 *   **HealthTech:** Lead Architect for **Wiocare**, a healthcare platform featuring automated medical report summarization.
-*   **Social Leadership:** Serving as **Project Director** at AYNA Youth Development Foundation, leading digital strategy and youth welfare initiatives since 2015.
+*   **Social Leadership:** Serving as **Convenor** at AYNA Youth Development Foundation, leading digital strategy and youth welfare initiatives since 2015.
 *   **Digital Art:** Actively exploring the intersection of AI and art, focusing on digital painting and NFT marketplaces.
 
 ## 🌐 Socials:
